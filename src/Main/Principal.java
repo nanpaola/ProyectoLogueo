@@ -13,7 +13,6 @@ public class Principal {
 		
 		LogicaMetodos imp=new LogicaMetodos();
 	
-	System.out.println("hola bitchs");
 	imp.guardar(usuario1);
 	imp.guardar(usuario2);
 	imp.guardar(usuario3);
